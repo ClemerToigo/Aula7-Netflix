@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+div #Estilo{
+    text-decoration: none;  /*Retira a decoração*/
+    background-color: rgb(255, 0, 0);
+    color:rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 50px;
+    margin-right: 1px;
+    
+}
+#netflix{
+    text-decoration: none;
+}
